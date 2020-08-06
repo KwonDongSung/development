@@ -31,7 +31,6 @@
 	outStream.close();
 	in.close();
 %>
-[출처] [JSP] cos.jar 이용 파일 업로드 구현 방법|작성자 JOKER
 <html>
 <head>
 <meta charset="UTF-8">
